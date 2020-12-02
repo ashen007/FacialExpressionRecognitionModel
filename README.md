@@ -15,7 +15,10 @@ videos.outputs displayed on web browser `localhost:5000`.
 To test this model you need to install these libreries on you test machine,
 `flask`, `tensorflow`, `numpy`, `openCV`
 After complete installations direct CMD to project folder and run `main.py`
-`D:\prject\main.py`
+
+### on windows
+
+`D:\prject>py -3 main.py`
 Then open browser and type `localhost:5000`
 if need to run this model on device camera change the path to `0` in VideoCamera class in `camera.py`
 
