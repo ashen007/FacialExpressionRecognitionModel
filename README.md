@@ -5,6 +5,6 @@ videos.outputs displayed on web browser `localhost:5000`.
 
 
 ## Demo
-<img src="demo/Screenshot 2020-12-02 134126.jpg">
-<img src="demo/Screenshot 2020-12-02 134307.jpg">
+<img src="demo/Screenshot 2020-12-02 134126.jpg" width=400px>
+<img src="demo/Screenshot 2020-12-02 134307.jpg" width=400px>
 
