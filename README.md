@@ -22,4 +22,4 @@ Then open browser and type `localhost:5000`
 
 if need to run this model on device camera change the path to `0` in VideoCamera class in `camera.py`
 
-<img src="Screenshot 2020-12-02 160833.jpg">
+<img src="demo/Screenshot 2020-12-02 160833.jpg">
