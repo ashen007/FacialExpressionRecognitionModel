@@ -12,7 +12,7 @@ videos.outputs displayed on web browser `localhost:5000`.
 
 ## Installation and Testing
 
-To test this model you need to install these libreries on you test machine,
+To test this model you have to install `python 3` and these libreries on you test machine,
 `flask`, `tensorflow`, `numpy`, `openCV`
 After complete installations direct CMD to project folder and run `main.py`
 
