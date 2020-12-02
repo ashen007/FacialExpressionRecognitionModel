@@ -23,5 +23,5 @@ if need to run this model on device camera change the path to `0` in VideoCamera
 
 ## Dataset
 Dataset to train the model from Kaggle.com
-link: [](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/rules)
+link: [facial expression recognition challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/rules)
 
