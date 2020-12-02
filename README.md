@@ -5,4 +5,7 @@ videos.outputs displayed on web browser `localhost:5000`.
 
 
 ## Demo
+<div style="display: inline">
 <img src="demo/Screenshot 2020-12-02 134126.jpg">
+<img src="demo/Screenshot 2020-12-02 134151.jpg">
+</div>
